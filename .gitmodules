@@ -1,3 +1,6 @@
 [submodule "Cryptocurrency Exchange Platform"]
 	path = Cryptocurrency Exchange Platform
 	url = https://github.com/SENODROOM/Cryptocurreny-Exchange-Platform.git
+[submodule "Chess"]
+	path = Chess
+	url = https://github.com/SENODROOM/CHESS-GAME-SFML-CPP.git
