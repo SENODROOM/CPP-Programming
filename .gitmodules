@@ -4,3 +4,6 @@
 [submodule "Chess"]
 	path = Chess
 	url = https://github.com/SENODROOM/CHESS-GAME-SFML-CPP.git
+[submodule "3D Surface Visualizer and Optimizer"]
+	path = 3D Surface Visualizer and Optimizer
+	url = https://github.com/SENODROOM/3D-Surface-Visualizer-and-Optimizer.git
